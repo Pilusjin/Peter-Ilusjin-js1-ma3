@@ -1,0 +1,6 @@
+.gamecontainer {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px;
+}
